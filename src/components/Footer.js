@@ -2,7 +2,6 @@ import React from 'react';
 import {
   MDBFooter,
   MDBContainer,
-  MDBIcon,
   MDBBtn
 } from 'mdb-react-ui-kit';
 import FacebookIcon from '@mui/icons-material/Facebook';
